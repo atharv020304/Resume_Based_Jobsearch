@@ -39,3 +39,6 @@ The Resume-Based Job Search Platform is a web application built with Python and 
 - Support for multiple languages in resume parsing and job matching.
 - Enhanced filtering options for users.
 - Mobile app version for seamless access.
+
+- <img width="960" alt="image" src="https://github.com/user-attachments/assets/7329d6bd-8985-4e0e-b002-2d2c563ce1a2" />
+
