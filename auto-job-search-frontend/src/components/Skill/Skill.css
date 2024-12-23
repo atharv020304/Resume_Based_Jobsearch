@@ -1,0 +1,18 @@
+.skill {
+  background-color: #fff;
+  color: #0e153a;
+  padding: 8px;
+  display: inline;
+  border-radius: 4px;
+  font-weight: 500;
+  border: none;
+  cursor: pointer;
+  transition: 0.2s ease-out;
+  margin: 4px;
+}
+
+.skill-selected {
+  transition: 0.2s ease-out;
+  background-color: #1b5f9e;
+  color: #fff;
+}

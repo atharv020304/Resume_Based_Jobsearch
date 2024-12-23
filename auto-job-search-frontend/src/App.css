@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Inter, Arial;
+}
+
+body {
+  background-color: #f5f5f7;
+}
+
+.btn {
+  border: none;
+  font-weight: 400;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.2s ease-out;
+  padding: 8px 12px;
+  background-color: #062743;
+  color: white;
+}
